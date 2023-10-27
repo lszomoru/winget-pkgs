@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.4.0.schema.json
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
 
 PackageIdentifier: Microsoft.VisualStudioCode.Insiders
 PackageName: Microsoft Visual Studio Code Insiders
@@ -16,4 +16,4 @@ Tags:
   - developer-tools
   - editor
 ManifestType: defaultLocale
-ManifestVersion: 1.4.0
+ManifestVersion: 1.5.0
